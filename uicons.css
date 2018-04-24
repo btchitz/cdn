@@ -1,4 +1,4 @@
-.system-icon{width: 16px; height: 16px; background:url(images/iconset.png) no-repeat; display:inline-block;}
+.system-icon{width: 16px; height: 16px; background:url(https://cdn.rawgit.com/btchitz/images/890812aa/iconset.png) no-repeat; display:inline-block;}
 .system-icon.accept{background-position: -0px -0px}
 .system-icon.add{background-position: -16px -0px}
 .system-icon.anchor{background-position: -32px -0px}
@@ -1001,7 +1001,7 @@
 .system-icon.zoom_in{background-position: -608px -384px}
 .system-icon.zoom_out{background-position: -624px -384px}
 
-.white-icon {width: 16px; height: 16px; background-image: url(images/ui-icons_ffffff.png); display:inline-block; margin-top:4px; margin-right:2px; float:left; }
+.white-icon {width: 16px; height: 16px; background-image: url(https://cdn.rawgit.com/btchitz/images/890812aa/ui-icons_ffffff.png); display:inline-block; margin-top:4px; margin-right:2px; float:left; }
 
 /* positioning */
 .ui-icon-carat-1-n { background-position: 0 0; }
