@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'bebas_neueregular';
-    src: url('fonts/bebasneue-webfont.eot');
-    src: url('fonts/bebasneue-webfontd41d.eot?#iefix') format('embedded-opentype'), url('fonts/bebasneue-webfont.woff') format('woff'), url('fonts/bebasneue-webfont.ttf') format('truetype'), url('fonts/bebasneue-webfont.svg#bebas_neueregular') format('svg');
+    src: url('https://cdn.rawgit.com/btchitz/cdn/master/bebasneue-webfont.eot');
+    src: url('https://cdn.rawgit.com/btchitz/cdn/master/bebasneue-webfontd41d.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/btchitz/cdn/master/bebasneue-webfont.woff') format('woff'), url('https://cdn.rawgit.com/btchitz/cdn/master/bebasneue-webfont.ttf') format('truetype'), url('https://cdn.rawgit.com/btchitz/cdn/master/bebasneue-webfont.svg#bebas_neueregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'commonsregular';
-    src: url('fonts/commonsregular-webfont.eot');
-    src: url('fonts/commonsregular-webfontd41d.eot?#iefix') format('embedded-opentype'), url('fonts/commonsregular-webfont.woff') format('woff'), url('fonts/commonsregular-webfont.ttf') format('truetype'), url('fonts/commonsregular-webfont.svg#commonsregular') format('svg');
+    src: url('https://cdn.rawgit.com/btchitz/cdn/master/commonsregular-webfont.eot');
+    src: url('https://cdn.rawgit.com/btchitz/cdn/master/commonsregular-webfontd41d.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/btchitz/cdn/master/commonsregular-webfont.woff') format('woff'), url('https://cdn.rawgit.com/btchitz/cdn/master/commonsregular-webfont.ttf') format('truetype'), url('https://cdn.rawgit.com/btchitz/cdn/master/commonsregular-webfont.svg#commonsregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
