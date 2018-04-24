@@ -1,0 +1,109 @@
+body{
+	margin:0px; 
+	padding:0px; 
+	width:100%; 
+	height:100%; 
+	overflow:hidden;
+	font-size:12px;
+}
+a{
+	color:yellow;
+}
+a:hover{
+	opacity:0.8;
+}
+.surfbar{
+	color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0px;
+	font-weight:bold;
+	height:80px;
+  background: #1B1A19 url(https://cdn.rawgit.com/btchitz/images/890812aa/background.jpg) no-repeat center;
+  background-size: cover;
+}
+.logo{
+	background: url(https://cdn.rawgit.com/btchitz/images/890812aa/logo.png) no-repeat center center;
+    width: 145px;
+    background-size: 154px;
+    height: 70px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#surfbar{ 
+	float:left;
+	padding:24px 0px 0px 20px;
+}
+.progressbar{
+width:123px;
+height:12px;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/progressbar.png) no-repeat;
+margin-top:10px;
+}
+.progressbar div{
+height:15px;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/progressbg_green.gif) no-repeat;;
+width:3px;
+max-width:120px;
+margin-left:1px;
+}
+#vnumbers{
+float:left;
+margin-left:20px;
+padding-top:13px;
+}
+.surfer_frame{
+	border:0px; 
+	height:100%; 
+	width:100%;
+}
+.banner{
+	float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+  
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+}
+
+.errorbox{
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/cancel.png) no-repeat;
+padding-left:55px;
+height:38px;
+padding-top:10px;
+display:none;
+margin-top: -10px;
+}
+.successbox{
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/tick.png) no-repeat;
+padding-left:55px;
+height:38px;
+padding-top:10px;
+display:none;
+margin-top: -10px;
+}
+
+.adwait{
+padding-top:10px;
+padding-left:5px;
+}
+
+
