@@ -37,7 +37,7 @@ margin-left:20px;
 }
 #logo a{
 display:block;
-background:url(images/logo.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/logo.png) no-repeat;
 width:284px;
 height:50px;
 }
@@ -361,7 +361,7 @@ padding:3px 5px;
 font-size:13px;
 }
 .carticon{
-background:url(images/cart.png) no-repeat scroll 0px 50%;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/cart.png) no-repeat scroll 0px 50%;
 padding:2px 10px;
 padding-left:30px;
 }
@@ -416,7 +416,7 @@ background:#fcfcfc;
 }
 
 .admin-info{
-background:url(images/user-icon.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/user-icon.png) no-repeat;
 min-height:104px;
 padding-left:114px;
 float:left;
@@ -455,12 +455,12 @@ opacity:.35;
 
 /* Helpdesk*/
 .open-ticket-box{
-background:url(images/icon_open_ticket.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/icon_open_ticket.png) no-repeat;
 padding:0px 10px 5px 70px;
 min-height:65px;
 }
 .view-ticket-box{
-background:url(images/icon_view_ticket.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/icon_view_ticket.png) no-repeat;
 padding:0px 10px 5px 70px;
 min-height:65px;
 }
@@ -486,7 +486,7 @@ fieldset.ticket-admin{
 }
 /* Ads */
 .dashboardbox{
-background:#fff3dd url(images/process_warning.png) no-repeat scroll 10px 5px;
+background:#fff3dd url(https://cdn.rawgit.com/btchitz/images/890812aa/process_warning.png) no-repeat scroll 10px 5px;
 padding:8px;
 padding-left:50px;
 color:#dd6b17;
@@ -503,7 +503,7 @@ color:#dd6b17;
 text-decoration:underline;
 }
 .adtimereset{
-background:#e1f7fd url(images/clock.png) no-repeat scroll 10px 50%;
+background:#e1f7fd url(https://cdn.rawgit.com/btchitz/images/890812aa/clock.png) no-repeat scroll 10px 50%;
 padding:8px;
 padding-left:40px;
 border:1px solid #a2e6f9;
@@ -577,7 +577,7 @@ font-size:12px;
 .ad-footer{
 border-top:1px solid #d0c7eb;
 color:#5e6a71;
-background:#ece8f7 url(../images/coins.html) no-repeat scroll 5px 50%;
+background:#ece8f7 url(../https://cdn.rawgit.com/btchitz/images/890812aa/coins.html) no-repeat scroll 5px 50%;
 padding:5px 5px 5px 25px;
 font-size:9px;
 }
@@ -873,7 +873,7 @@ background:#37b6bd;
 }
 /* Boxes */
 .error_box{
-background:#fde2db url(images/erroricon.png) no-repeat scroll 10px 3px;
+background:#fde2db url(https://cdn.rawgit.com/btchitz/images/890812aa/erroricon.png) no-repeat scroll 10px 3px;
 padding:8px;
 padding-left:50px;
 border:1px solid #fbc2b5;
@@ -885,7 +885,7 @@ border-radius: 3px;
 -webkit-border-radius: 3px;
 }
 .success_box{
-background:#effae7 url(images/successicon.png) no-repeat scroll 10px 3px;
+background:#effae7 url(https://cdn.rawgit.com/btchitz/images/890812aa/successicon.png) no-repeat scroll 10px 3px;
 padding:8px;
 padding-left:50px;
 border:1px solid #c5eda7;
@@ -897,7 +897,7 @@ border-radius: 3px;
 -webkit-border-radius: 3px;
 }
 .info_box{
-background:#e1f7fd url(images/infoicon.png) no-repeat scroll 10px 3px;
+background:#e1f7fd url(https://cdn.rawgit.com/btchitz/images/890812aa/infoicon.png) no-repeat scroll 10px 3px;
 padding:8px;
 padding-left:50px;
 border:1px solid #a2e6f9;
@@ -925,9 +925,9 @@ float:left;
 float:right;
 }
 
-#preloader { background: url(images/loader.gif) no-repeat -9999px -9999px; }
+#preloader { background: url(https://cdn.rawgit.com/btchitz/images/890812aa/loader.gif) no-repeat -9999px -9999px; }
 .loader{
-background:url(images/loader.gif) no-repeat scroll 50% 50%;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/loader.gif) no-repeat scroll 50% 50%;
 }
 
 .corner-all{
