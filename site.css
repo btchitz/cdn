@@ -36,7 +36,7 @@ padding:4px 5px;
 font-weight: bold;
 }
 .carticon{
-background:url(images/cart.png) no-repeat scroll 0px 50%;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/cart.png) no-repeat scroll 0px 50%;
 padding:3px 10px;
 padding-left:30px;
 }
@@ -52,7 +52,7 @@ border-radius: 3px;
 }
 /*========================= ADS ========================*/
 .adtimereset{
-background:#fefaed url(images/clock.png) no-repeat scroll 5px 50%;
+background:#fefaed url(https://cdn.rawgit.com/btchitz/images/890812aa/clock.png) no-repeat scroll 5px 50%;
 border:1px solid #fce6a3;
 padding:5px;
 padding-left:30px;
@@ -137,7 +137,7 @@ overflow: hidden;
 }
 .ad-footer{
 color:#ffffff;
-background: url(../images/coins.png) no-repeat scroll 5px 50%, gray;
+background: url(../https://cdn.rawgit.com/btchitz/images/890812aa/coins.png) no-repeat scroll 5px 50%, gray;
 padding:6px 5px 5px 25px;
 font-size:13px;
 font-weight: bold;
@@ -376,7 +376,7 @@ font-size:10px;
 }
 /*======================== DASHBOARD ===========================*/
 .admin-info{
-background: url(images/user-icon.png) no-repeat;
+background: url(https://cdn.rawgit.com/btchitz/images/890812aa/user-icon.png) no-repeat;
 min-height: 110px;
 padding-left: 104px;
 float: left;
@@ -449,19 +449,19 @@ margin-top:5px; text-align:center;
 }
 /*======================== HELPDESK ===========================*/
 .open-ticket-box{
-background:url(images/icon_open_ticket.html) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/icon_open_ticket.html) no-repeat;
 padding:0px 10px 5px 60px;
 min-height:60px;
 }
 .view-ticket-box{
-background:url(images/icon_view_ticket.html) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/icon_view_ticket.html) no-repeat;
 padding:0px 10px 5px 60px;
 min-height:60px;
 }
 /*========================= OLD ========================*/
 /*== Ads Page ==*/
 .adsleftbox{
-background:#f3dddd url(../images/exclamation.html) no-repeat scroll 5px 50%;
+background:#f3dddd url(../https://cdn.rawgit.com/btchitz/images/890812aa/exclamation.html) no-repeat scroll 5px 50%;
 border:1px solid #deb7b7;
 padding:5px;
 padding-left:25px;
@@ -579,7 +579,7 @@ margin-left:10px;
 }
 #logo a{
 display:block;
-background:url(images/logo.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/logo.png) no-repeat;
 width:248px;
 height:60px;
 }
@@ -671,10 +671,10 @@ background: -moz-linear-gradient(top, #e8e8e8, #e1e1e1);
 filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#e8e8e8', endColorstr='#e1e1e1');
 }
 .header_2 ul li ul li a.leftrow{
-background:url(images/arrowright.png) no-repeat scroll 100% 50%;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/arrowright.png) no-repeat scroll 100% 50%;
 }
 .header_2 ul li ul li a.leftrow:hover{
-background:#e8e8e8 url(images/arrowright.png) no-repeat scroll 100% 50%;
+background:#e8e8e8 url(https://cdn.rawgit.com/btchitz/images/890812aa/arrowright.png) no-repeat scroll 100% 50%;
 }
 .header_2 ul li ul li ul{
 display:none;
