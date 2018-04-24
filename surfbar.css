@@ -37,12 +37,12 @@ a:hover{
 .progressbar{
 width:123px;
 height:12px;
-background:url(css/images/surfer/progressbar.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/progressbar.png) no-repeat;
 margin-top:10px;
 }
 .progressbar div{
 height:15px;
-background:url(css/images/surfer/progressbg_green.gif) no-repeat;;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/progressbg_green.gif) no-repeat;;
 width:3px;
 max-width:120px;
 margin-left:1px;
@@ -85,7 +85,7 @@ padding-top:13px;
 }
 
 .errorbox{
-background:url(css/images/surfer/cancel.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/cancel.png) no-repeat;
 padding-left:55px;
 height:38px;
 padding-top:10px;
@@ -93,7 +93,7 @@ display:none;
 margin-top: -10px;
 }
 .successbox{
-background:url(css/images/surfer/tick.png) no-repeat;
+background:url(https://cdn.rawgit.com/btchitz/images/890812aa/tick.png) no-repeat;
 padding-left:55px;
 height:38px;
 padding-top:10px;
