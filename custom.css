@@ -55,7 +55,7 @@ a:hover {
 .wrapper {
     margin: 0px auto;
     overflow: hidden;
-    background: url(../img/wrapper-bg.png) no-repeat center top;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/wrapper-bg.png) no-repeat center top;
     background-position-y: -7px;
 }
 .header-top {
@@ -64,7 +64,7 @@ a:hover {
     margin: 0px auto;
     border-bottom:  5px solid #f7931a;
     background: #1b1a1a;
-    background: #1B1A19 url(../img/background.jpg) no-repeat center;
+    background: #1B1A19 url(https://cdn.rawgit.com/btchitz/images/890812aa/background.jpg) no-repeat center;
     background-size: cover;
 }
 .header-top .container {
@@ -110,7 +110,7 @@ a:hover {
     float: right;
 }
 .top-stats {
-    background: url(../img/stats-bg.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/stats-bg.html) no-repeat;
     width: 480px;
     height: 52px;
     margin-top: 20px;
@@ -120,7 +120,7 @@ a:hover {
     line-height: 50px;
 }
 .logo {
-    background: url(../img/logo.png) no-repeat center center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/logo.png) no-repeat center center;
     width: 190px;
     height: 90px;
     margin-top: 10px;
@@ -142,7 +142,7 @@ a:hover {
     padding: 9px 18px;
 }
 .facebook-login {
-    background: url(../img/facebook-login.png) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/facebook-login.png) no-repeat;
     width: 177px;
     height: 24px;
     display: inline-block;
@@ -234,7 +234,7 @@ a:hover {
     padding-top: 10px;
     height: 60px;
     overflow: hidden;
-    background: #1B1A19 url(../img/background.jpg) no-repeat center;
+    background: #1B1A19 url(https://cdn.rawgit.com/btchitz/images/890812aa/background.jpg) no-repeat center;
     background-size: cover;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
@@ -264,7 +264,7 @@ a:hover {
     color: #ffffff;
 }
 .facebook {
-    background: url(../img/facebook.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/facebook.html) no-repeat;
     width: 48px;
     height: 48px;
     display: inline-block;
@@ -275,7 +275,7 @@ a:hover {
     margin-top: 10px;
 }
 .twitter {
-    background: url(../img/twitter.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/twitter.html) no-repeat;
     width: 48px;
     height: 48px;
     display: inline-block;
@@ -305,7 +305,7 @@ a:hover {
 .home-top-container {
     width: 100%;
     height: 285px;
-    background: black url(../img/background_2.png) no-repeat center center;
+    background: black url(https://cdn.rawgit.com/btchitz/images/890812aa/background_2.png) no-repeat center center;
     background-size: cover;
 }
 .carousel-indicators {
@@ -317,7 +317,7 @@ a:hover {
     list-style: none;
 }
 .slider-middle {
-    background: url(../img/slider-img.html) no-repeat left bottom;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/slider-img.html) no-repeat left bottom;
     width: 100%;
     height: 391px;
     margin: 0px;
@@ -332,17 +332,17 @@ a:hover {
     padding-top: 5px;
 }
 .slide1 {
-    background: url(../img/slide1.jpg) no-repeat left top;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/slide1.jpg) no-repeat left top;
     width: 993px;
     height: 321px;
 }
 .slide2 {
-    background: url(../img/slide2.jpg) no-repeat left top;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/slide2.jpg) no-repeat left top;
     width: 993px;
     height: 321px;
 }
 .slide3 {
-    background: url(../img/slide3.jpg) no-repeat left top;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/slide3.jpg) no-repeat left top;
     width: 993px;
     height: 321px;
 }
@@ -372,7 +372,7 @@ a:hover {
     line-height: 24px;
     font-weight: 600;
     padding-left: 38px;
-    background: url(../img/list-bg.png) no-repeat left 4px;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/list-bg.png) no-repeat left 4px;
     padding-top: 5px;
     padding-bottom: 6px;
 }
@@ -430,7 +430,7 @@ a:hover {
     font-size: 14px;
 }
 .featured-arrow {
-    background: url(../img/featured-arrow.html) no-repeat left top;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/featured-arrow.html) no-repeat left top;
     position: absolute;
     width: 23px;
     height: 36px;
@@ -482,7 +482,7 @@ a:hover {
 }
 .payment-logos {
     float: right;
-    background: url(../img/payment-logos.png) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/payment-logos.png) no-repeat;
     width: 591px;
     height: 54px;
     margin-top: 4px;
@@ -508,7 +508,7 @@ a:hover {
     margin-bottom: 25px;
 }
 .home-middle {
-    background: url(../img/slider-bottom.html) repeat-x;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/slider-bottom.html) repeat-x;
     height: 42px;
     text-align: center;
     color: #FE8101;
@@ -569,7 +569,7 @@ h1.statistics {
     margin-bottom: 5px;
 }
 .news {
-    background: url(../img/news-bg.png) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/news-bg.png) no-repeat;
     padding-left: 663px;
     height: 300px;
 }
@@ -594,7 +594,7 @@ h1.statistics {
     -o-border-radius: 4px;
     border-radius: 4px;
     font-family: 'Open Sans', sans-serif;
-    background: #1B1A19 url(../img/background.jpg) no-repeat center;
+    background: #1B1A19 url(https://cdn.rawgit.com/btchitz/images/890812aa/background.jpg) no-repeat center;
     background-size: cover;
     font-size: 16px;
     padding: 15px 10px 25px;
@@ -638,7 +638,7 @@ h1.statistics {
     color: white;
 }
 .member-benefits li {
-    background: url(../img/list-bg2.png) no-repeat 0px center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/list-bg2.png) no-repeat 0px center;
     padding-left: 16px;
     line-height: 24px;
 }
@@ -648,7 +648,7 @@ h1.statistics {
     border-bottom: 3px solid #0b0a0a;
 }
 .member-benefits .content1 {
-    background: url(../img/members-benefits.png) no-repeat left center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/members-benefits.png) no-repeat left center;
     margin-left: 10px;
     color: #f7931a;
     font-size: 24px;
@@ -660,7 +660,7 @@ h1.statistics {
     margin-bottom: 6px;
 }
 .member-benefits .content2 {
-    background: url(../img/advertisers-benefits.png) no-repeat left center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/advertisers-benefits.png) no-repeat left center;
     margin-left: 10px;
     color: #f7931a;
     font-size: 24px;
@@ -689,7 +689,7 @@ h1.statistics {
     text-align: left;
 }
 .box1 {
-    background: url(../img/home-icon1.html) no-repeat 0px center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/home-icon1.html) no-repeat 0px center;
     color: #4F4948;
     font-weight: bold;
     font-size: 14px;
@@ -700,7 +700,7 @@ h1.statistics {
     margin-bottom: 15px;
 }
 .box2 {
-    background: url(../img/home-icon2.html) no-repeat 0px center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/home-icon2.html) no-repeat 0px center;
     color: #4F4948;
     font-weight: bold;
     font-size: 14px;
@@ -711,7 +711,7 @@ h1.statistics {
     margin-bottom: 15px;
 }
 .box3 {
-    background: url(../img/home-icon3.html) no-repeat 0px center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/home-icon3.html) no-repeat 0px center;
     color: #4F4948;
     font-weight: bold;
     font-size: 14px;
@@ -730,7 +730,7 @@ h1.statistics {
     margin-top: 90px;
 }
 .secure-payments {
-    background: url(../img/secure-payments.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/secure-payments.html) no-repeat;
     width: 290px;
     height: 102px;
     margin-top: 10px;
@@ -748,7 +748,7 @@ h1.statistics {
 .promo {
     width: 147px;
     height: 176px;
-    background: url(../img/promo.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/promo.html) no-repeat;
     position: absolute;
     left: 20px;
     top: -31px;
@@ -804,7 +804,7 @@ h1.statistics {
     background: #F24147;
 }
 .star {
-    background: url(../img/star.html) 0 0 no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/star.html) 0 0 no-repeat;
     width: 35px;
     height: 31px;
     display: inline-block;
@@ -816,7 +816,7 @@ h1.statistics {
 .bottom-slider {
     width: 910px;
     margin: 0 auto;
-    background: url(../img/main-slider-bg.html) repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/main-slider-bg.html) repeat;
     padding-top: 10px;
     padding-bottom: 2px;
 }
@@ -845,10 +845,10 @@ h1.statistics {
 .bottom-slider .carousel-control.right {
     right: -25px;
     left: auto;
-    background: url(../img/bot-controler-r.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/bot-controler-r.html) no-repeat;
 }
 .bottom-slider .carousel-control.left {
-    background: url(../img/bot-controler-l.html) no-repeat;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/bot-controler-l.html) no-repeat;
 }
 .clear {
     clear: both;
@@ -1133,7 +1133,7 @@ input[type="text"], input[type="password"], select, textarea {
     width: 170px;
 }
 .register-content {
-    background: url(../img/register-bg.html) no-repeat left 40px;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/register-bg.html) no-repeat left 40px;
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 13px;
@@ -1180,7 +1180,7 @@ input[type="text"], input[type="password"], select, textarea {
 }
 .advertisers-content {
     padding-left: 250px;
-    background: url(../img/advertisers-bg.html) no-repeat left 40px;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/advertisers-bg.html) no-repeat left 40px;
     padding-top: 30px;
     padding-bottom: 50px;
     font-size: 13px;
@@ -1194,7 +1194,7 @@ input[type="text"], input[type="password"], select, textarea {
 }
 .upgrade-content {
     padding-left: 280px;
-    background: url(../img/upgrade-bg.html) no-repeat left 40px;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/upgrade-bg.html) no-repeat left 40px;
     padding-top: 30px;
     padding-bottom: 50px;
     font-size: 13px;
@@ -1269,7 +1269,7 @@ input[type="text"], input[type="password"], select, textarea {
     width: 587px;
     height: 316px;
     padding-left: 150px;
-    background: url(../img/charts-bg.png) no-repeat left center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/charts-bg.png) no-repeat left center;
     padding-top: 43px;
     position: relative;
 }
@@ -1278,7 +1278,7 @@ input[type="text"], input[type="password"], select, textarea {
 }
 .upgrade-purchase {
     padding-left: 220px;
-    background: url(../img/upgrade-purchase.png) no-repeat left center;
+    background: url(https://cdn.rawgit.com/btchitz/images/890812aa/upgrade-purchase.png) no-repeat left center;
     padding-top: 20px;
     padding-bottom: 20px;
     position: relative;
