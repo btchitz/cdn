@@ -14,6 +14,8 @@ $(document).ready(function() {
                 var cashout = site_info[i].cashout;
                 var total_refs = site_info[i].total_refs;
                 var next_bonus = site_info[i].next_bonus;
+                var tot_ads = site_info[i].tot_ads;
+                var satoshis = site_info[i].satoshis;
             }
             $("#current_btc_value").html("<b>$</b> "+ btc_valor);
             $("#total_users").html(contmembers);
@@ -21,6 +23,8 @@ $(document).ready(function() {
             $("#total_cashout").html(cashout);
             $("#total_refs").html(total_refs);
             $("#next_bonus").html(next_bonus);
+            $("#tot_ads").html(tot_ads);
+            $("#satoshis").html(satoshis);
         }
     });
 });
