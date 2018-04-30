@@ -3,16 +3,6 @@ $(document).ready(function() {
         url: "data_site_1.php",
         cache: false,
         dataType: "json",
-        beforeSend: function () {
-            $("#current_btc_value").html("<b>$</b> <span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#total_users").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#total_clicks").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#total_cashout").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#total_refs").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#next_bonus").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#tot_ads").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-            $("#satoshis").html("<span class=\"fa fa-spinner fa-spin\"></span>");
-        },
         error: function() {},
         success: function(site_info) {
             for (var i = 0; i < site_info.length; i++) {
