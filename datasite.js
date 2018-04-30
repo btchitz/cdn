@@ -4,7 +4,7 @@ $(document).ready(function() {
         cache: false,
         dataType: "json",
         beforeSend: function () {
-            $("#current_btc_value").html("<b>$</b> "+ btc_valor);
+            $("#current_btc_value").html("<b>$</b> <span class=\"fa fa-spinner fa-spin\"></span>");
             $("#total_users").html("<span class=\"fa fa-spinner fa-spin\"></span>");
             $("#total_clicks").html("<span class=\"fa fa-spinner fa-spin\"></span>");
             $("#total_cashout").html("<span class=\"fa fa-spinner fa-spin\"></span>");
