@@ -16,6 +16,7 @@ $(document).ready(function() {
                 var next_bonus = site_info[i].next_bonus;
                 var tot_ads = site_info[i].tot_ads;
                 var satoshis = site_info[i].satoshis;
+                var usersonline = site_info[i].usersonline;
             }
             $("#current_btc_value").html("<b>$</b> "+ btc_valor);
             $("#total_users").html(contmembers);
@@ -25,6 +26,7 @@ $(document).ready(function() {
             $("#next_bonus").html(next_bonus);
             $("#tot_ads").html(tot_ads);
             $("#satoshis").html(satoshis);
+            $("#counter_text").html(usersonline);
         }
     });
 });
