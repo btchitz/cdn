@@ -471,9 +471,8 @@ a:hover {
     list-style: none;
 }
 .featured li span {
-    color: #c30404;
+    color: #10c304;
     font-size: 12px;
-    display: none;
 }
 .featured li a {
     color: #f7931a;
