@@ -85,12 +85,12 @@ padding-top:13px;
 }
 
 .errorbox{
-background:url(https://cdn.rawgit.com/btchitz/images/890812aa/cancel.png) no-repeat;
-padding-left:55px;
-height:38px;
-padding-top:10px;
-display:none;
-margin-top: -10px;
+background: url(https://cdn.rawgit.com/btchitz/images/890812aa/cancel.png) no-repeat;
+padding-left: 55px;
+height: 38px;
+padding-top: 13px;
+display: none;
+margin-top: -5px;
 }
 .successbox{
 background:url(https://cdn.rawgit.com/btchitz/images/890812aa/tick.png) no-repeat;
