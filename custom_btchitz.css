@@ -1434,3 +1434,7 @@ input[type="text"], input[type="password"], select, textarea {
 #scrolltop:hover {
   background-color: #555;
 }
+
+.modal-header .close {
+    margin-top: 10px!important;
+}
